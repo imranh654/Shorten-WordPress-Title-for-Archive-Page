@@ -1,0 +1,1 @@
+# Shorten-WordPress-Title-for-Archive-Page
